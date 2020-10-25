@@ -41,5 +41,4 @@ def spam():
     input("\n[Spamming Finished]")
     spam()
 
-
 start()
